@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690483835 source:c:\users\vedja\onedrive\documents\c++test\computerprogramminglabsheets\labsheet7\filestest\main.cpp
+	<iostream>
+	<fstream>
+
